@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Projects\curneu_technical_assessment\hist\hist\main.cpp(61,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Projects\curneu_technical_assessment\hist\hist\main.cpp(91,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Projects\curneu_technical_assessment\hist\hist\main.cpp(97,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  hist.vcxproj -> C:\Projects\curneu_technical_assessment\hist\x64\Debug\hist.exe
